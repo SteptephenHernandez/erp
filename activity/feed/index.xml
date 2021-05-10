@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TestSite | Site-Wide Activity</title>
+	<link>https://steptephenhernandez.github.io/erp/activity/</link>
+	<atom:link href="https://steptephenhernandez.github.io/erp/activity/feed/" rel="self" type="application/rss+xml" />
+	<description>Activity feed for the entire site.</description>
+	<lastBuildDate>Mon, 10 May 2021 07:53:13 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=7.3.0</generator>
+	<language>en-US</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+	
+						<item>
+				<guid isPermaLink="false">66225d43b9192d0ae356a4e17c9d31ac</guid>
+				<title>Guia Hernandez posted an update in the group Group test: hello group mates</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/8/</link>
+				<pubDate>Mon, 10 May 2021 07:49:31 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>hello group mates</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">cb4197f27d434f1bf185e5d52b29a697</guid>
+				<title>Guia Hernandez joined the group Group test</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/7/</link>
+				<pubDate>Mon, 10 May 2021 07:49:11 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">fe4542a2ee7d99121a35bebcde5cf5c6</guid>
+				<title>Stephen Hernandez created the group Group test</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/6/</link>
+				<pubDate>Mon, 10 May 2021 07:48:09 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">275fe3bf1323b48ee9d71bc6660eca18</guid>
+				<title>Stephen Hernandez and Guia Hernandez are now friends</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/5/</link>
+				<pubDate>Mon, 10 May 2021 07:10:29 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">2a2626e99f7abaf1035cb4d74bccd322</guid>
+				<title>Stephen Hernandez&#039;s profile was updated</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/3/</link>
+				<pubDate>Mon, 10 May 2021 06:59:27 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">e277ffd625cfc30584b04071170bcb08</guid>
+				<title>Stephen Hernandez posted an update: new activity</title>
+				<link>https://steptephenhernandez.github.io/erp/activity/p/2/</link>
+				<pubDate>Mon, 10 May 2021 04:35:05 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>new activity</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>

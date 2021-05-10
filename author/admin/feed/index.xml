@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; erp</title>
+	<title>Stephen Hernandez &#8211; TestSite</title>
 	<atom:link href="https://steptephenhernandez.github.io/erp/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://steptephenhernandez.github.io/erp</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 09 May 2021 13:36:23 +0000</lastBuildDate>
+	<description>Developer</description>
+	<lastBuildDate>Mon, 10 May 2021 03:03:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://steptephenhernandez.github.io/erp/2021/05/09/hello-world/</link>
-					<comments>https://steptephenhernandez.github.io/erp/2021/05/09/hello-world/#comments</comments>
+		<link>https://steptephenhernandez.github.io/erp/2021/05/10/hello-world/</link>
+					<comments>https://steptephenhernandez.github.io/erp/2021/05/10/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 09 May 2021 13:36:23 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Hernandez]]></dc:creator>
+		<pubDate>Mon, 10 May 2021 03:03:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://steptephenhernandez.github.io/erp/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://steptephenhernandez.github.io/erp/2021/05/09/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://steptephenhernandez.github.io/erp/2021/05/10/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
